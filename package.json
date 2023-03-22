@@ -4,7 +4,7 @@
   "description": "Import this repo to create a starting point for Node.js projects in repl.it, https://replit.com",
   "main": "index.js",
   "scripts": {
-    "test": "mocha --reporter json > test-results/mocha.json",
+    "test": "mocha --reporter json --verbose> test-results/mocha.json",
     "coverage": "nyc npm run test"
   },
   "keywords": [],
@@ -29,4 +29,4 @@
     "url": "https://github.com/dssalah/testing-mocha-chai/issues"
   },
   "homepage": "https://github.com/dssalah/testing-mocha-chai/blob/main/README.md"
-}
+

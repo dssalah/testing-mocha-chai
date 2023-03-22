@@ -6,16 +6,16 @@ Calculator loaded!
     "passes": 8,
     "pending": 0,
     "failures": 0,
-    "start": "2023-03-15T06:53:15.778Z",
-    "end": "2023-03-15T06:53:15.782Z",
-    "duration": 4
+    "start": "2023-03-22T18:58:19.971Z",
+    "end": "2023-03-22T18:58:19.973Z",
+    "duration": 2
   },
   "tests": [
     {
       "title": "Adds 1 and 2",
       "fullTitle": "Calculator Tests Adds 1 and 2",
-      "file": "/home/runner/testing-mocha-chai/test/Calculator.js",
-      "duration": 1,
+      "file": "/Users/durransalah/Documents/testing-mocha-chai/test/Calculator.js",
+      "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -23,7 +23,7 @@ Calculator loaded!
     {
       "title": "Add Allows one parameter",
       "fullTitle": "Calculator Tests Add Allows one parameter",
-      "file": "/home/runner/testing-mocha-chai/test/Calculator.js",
+      "file": "/Users/durransalah/Documents/testing-mocha-chai/test/Calculator.js",
       "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
@@ -32,7 +32,7 @@ Calculator loaded!
     {
       "title": "Add Allows no parameters",
       "fullTitle": "Calculator Tests Add Allows no parameters",
-      "file": "/home/runner/testing-mocha-chai/test/Calculator.js",
+      "file": "/Users/durransalah/Documents/testing-mocha-chai/test/Calculator.js",
       "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
@@ -41,7 +41,7 @@ Calculator loaded!
     {
       "title": "Add turns strings to zeros",
       "fullTitle": "Calculator Tests Add turns strings to zeros",
-      "file": "/home/runner/testing-mocha-chai/test/Calculator.js",
+      "file": "/Users/durransalah/Documents/testing-mocha-chai/test/Calculator.js",
       "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
@@ -50,7 +50,7 @@ Calculator loaded!
     {
       "title": "Subtracts 5 from 10",
       "fullTitle": "Calculator Tests Subtracts 5 from 10",
-      "file": "/home/runner/testing-mocha-chai/test/Calculator.js",
+      "file": "/Users/durransalah/Documents/testing-mocha-chai/test/Calculator.js",
       "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
@@ -59,7 +59,7 @@ Calculator loaded!
     {
       "title": "Subtracts allows one parameter",
       "fullTitle": "Calculator Tests Subtracts allows one parameter",
-      "file": "/home/runner/testing-mocha-chai/test/Calculator.js",
+      "file": "/Users/durransalah/Documents/testing-mocha-chai/test/Calculator.js",
       "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
@@ -68,7 +68,7 @@ Calculator loaded!
     {
       "title": "Muliply 5 x 2",
       "fullTitle": "Calculator Tests Muliply 5 x 2",
-      "file": "/home/runner/testing-mocha-chai/test/Calculator.js",
+      "file": "/Users/durransalah/Documents/testing-mocha-chai/test/Calculator.js",
       "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
@@ -77,7 +77,7 @@ Calculator loaded!
     {
       "title": "6 divided by 3",
       "fullTitle": "Calculator Tests 6 divided by 3",
-      "file": "/home/runner/testing-mocha-chai/test/Calculator.js",
+      "file": "/Users/durransalah/Documents/testing-mocha-chai/test/Calculator.js",
       "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
@@ -90,8 +90,8 @@ Calculator loaded!
     {
       "title": "Adds 1 and 2",
       "fullTitle": "Calculator Tests Adds 1 and 2",
-      "file": "/home/runner/testing-mocha-chai/test/Calculator.js",
-      "duration": 1,
+      "file": "/Users/durransalah/Documents/testing-mocha-chai/test/Calculator.js",
+      "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -99,7 +99,7 @@ Calculator loaded!
     {
       "title": "Add Allows one parameter",
       "fullTitle": "Calculator Tests Add Allows one parameter",
-      "file": "/home/runner/testing-mocha-chai/test/Calculator.js",
+      "file": "/Users/durransalah/Documents/testing-mocha-chai/test/Calculator.js",
       "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
@@ -108,7 +108,7 @@ Calculator loaded!
     {
       "title": "Add Allows no parameters",
       "fullTitle": "Calculator Tests Add Allows no parameters",
-      "file": "/home/runner/testing-mocha-chai/test/Calculator.js",
+      "file": "/Users/durransalah/Documents/testing-mocha-chai/test/Calculator.js",
       "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
@@ -117,7 +117,7 @@ Calculator loaded!
     {
       "title": "Add turns strings to zeros",
       "fullTitle": "Calculator Tests Add turns strings to zeros",
-      "file": "/home/runner/testing-mocha-chai/test/Calculator.js",
+      "file": "/Users/durransalah/Documents/testing-mocha-chai/test/Calculator.js",
       "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
@@ -126,7 +126,7 @@ Calculator loaded!
     {
       "title": "Subtracts 5 from 10",
       "fullTitle": "Calculator Tests Subtracts 5 from 10",
-      "file": "/home/runner/testing-mocha-chai/test/Calculator.js",
+      "file": "/Users/durransalah/Documents/testing-mocha-chai/test/Calculator.js",
       "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
@@ -135,7 +135,7 @@ Calculator loaded!
     {
       "title": "Subtracts allows one parameter",
       "fullTitle": "Calculator Tests Subtracts allows one parameter",
-      "file": "/home/runner/testing-mocha-chai/test/Calculator.js",
+      "file": "/Users/durransalah/Documents/testing-mocha-chai/test/Calculator.js",
       "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
@@ -144,7 +144,7 @@ Calculator loaded!
     {
       "title": "Muliply 5 x 2",
       "fullTitle": "Calculator Tests Muliply 5 x 2",
-      "file": "/home/runner/testing-mocha-chai/test/Calculator.js",
+      "file": "/Users/durransalah/Documents/testing-mocha-chai/test/Calculator.js",
       "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
@@ -153,7 +153,7 @@ Calculator loaded!
     {
       "title": "6 divided by 3",
       "fullTitle": "Calculator Tests 6 divided by 3",
-      "file": "/home/runner/testing-mocha-chai/test/Calculator.js",
+      "file": "/Users/durransalah/Documents/testing-mocha-chai/test/Calculator.js",
       "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
