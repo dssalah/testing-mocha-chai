@@ -1,163 +1,20 @@
 Calculator loaded!
-{
-  "stats": {
-    "suites": 1,
-    "tests": 8,
-    "passes": 8,
-    "pending": 0,
-    "failures": 0,
-    "start": "2023-03-22T19:13:38.068Z",
-    "end": "2023-03-22T19:13:38.070Z",
-    "duration": 2
-  },
-  "tests": [
-    {
-      "title": "Adds 1 and 2",
-      "fullTitle": "Calculator Tests Adds 1 and 2",
-      "file": "/Users/durransalah/Documents/testing-mocha-chai/test/Calculator.js",
-      "duration": 0,
-      "currentRetry": 0,
-      "speed": "fast",
-      "err": {}
-    },
-    {
-      "title": "Add Allows one parameter",
-      "fullTitle": "Calculator Tests Add Allows one parameter",
-      "file": "/Users/durransalah/Documents/testing-mocha-chai/test/Calculator.js",
-      "duration": 0,
-      "currentRetry": 0,
-      "speed": "fast",
-      "err": {}
-    },
-    {
-      "title": "Add Allows no parameters",
-      "fullTitle": "Calculator Tests Add Allows no parameters",
-      "file": "/Users/durransalah/Documents/testing-mocha-chai/test/Calculator.js",
-      "duration": 0,
-      "currentRetry": 0,
-      "speed": "fast",
-      "err": {}
-    },
-    {
-      "title": "Add turns strings to zeros",
-      "fullTitle": "Calculator Tests Add turns strings to zeros",
-      "file": "/Users/durransalah/Documents/testing-mocha-chai/test/Calculator.js",
-      "duration": 0,
-      "currentRetry": 0,
-      "speed": "fast",
-      "err": {}
-    },
-    {
-      "title": "Subtracts 5 from 10",
-      "fullTitle": "Calculator Tests Subtracts 5 from 10",
-      "file": "/Users/durransalah/Documents/testing-mocha-chai/test/Calculator.js",
-      "duration": 0,
-      "currentRetry": 0,
-      "speed": "fast",
-      "err": {}
-    },
-    {
-      "title": "Subtracts allows one parameter",
-      "fullTitle": "Calculator Tests Subtracts allows one parameter",
-      "file": "/Users/durransalah/Documents/testing-mocha-chai/test/Calculator.js",
-      "duration": 0,
-      "currentRetry": 0,
-      "speed": "fast",
-      "err": {}
-    },
-    {
-      "title": "Muliply 5 x 2",
-      "fullTitle": "Calculator Tests Muliply 5 x 2",
-      "file": "/Users/durransalah/Documents/testing-mocha-chai/test/Calculator.js",
-      "duration": 0,
-      "currentRetry": 0,
-      "speed": "fast",
-      "err": {}
-    },
-    {
-      "title": "6 divided by 3",
-      "fullTitle": "Calculator Tests 6 divided by 3",
-      "file": "/Users/durransalah/Documents/testing-mocha-chai/test/Calculator.js",
-      "duration": 0,
-      "currentRetry": 0,
-      "speed": "fast",
-      "err": {}
-    }
-  ],
-  "pending": [],
-  "failures": [],
-  "passes": [
-    {
-      "title": "Adds 1 and 2",
-      "fullTitle": "Calculator Tests Adds 1 and 2",
-      "file": "/Users/durransalah/Documents/testing-mocha-chai/test/Calculator.js",
-      "duration": 0,
-      "currentRetry": 0,
-      "speed": "fast",
-      "err": {}
-    },
-    {
-      "title": "Add Allows one parameter",
-      "fullTitle": "Calculator Tests Add Allows one parameter",
-      "file": "/Users/durransalah/Documents/testing-mocha-chai/test/Calculator.js",
-      "duration": 0,
-      "currentRetry": 0,
-      "speed": "fast",
-      "err": {}
-    },
-    {
-      "title": "Add Allows no parameters",
-      "fullTitle": "Calculator Tests Add Allows no parameters",
-      "file": "/Users/durransalah/Documents/testing-mocha-chai/test/Calculator.js",
-      "duration": 0,
-      "currentRetry": 0,
-      "speed": "fast",
-      "err": {}
-    },
-    {
-      "title": "Add turns strings to zeros",
-      "fullTitle": "Calculator Tests Add turns strings to zeros",
-      "file": "/Users/durransalah/Documents/testing-mocha-chai/test/Calculator.js",
-      "duration": 0,
-      "currentRetry": 0,
-      "speed": "fast",
-      "err": {}
-    },
-    {
-      "title": "Subtracts 5 from 10",
-      "fullTitle": "Calculator Tests Subtracts 5 from 10",
-      "file": "/Users/durransalah/Documents/testing-mocha-chai/test/Calculator.js",
-      "duration": 0,
-      "currentRetry": 0,
-      "speed": "fast",
-      "err": {}
-    },
-    {
-      "title": "Subtracts allows one parameter",
-      "fullTitle": "Calculator Tests Subtracts allows one parameter",
-      "file": "/Users/durransalah/Documents/testing-mocha-chai/test/Calculator.js",
-      "duration": 0,
-      "currentRetry": 0,
-      "speed": "fast",
-      "err": {}
-    },
-    {
-      "title": "Muliply 5 x 2",
-      "fullTitle": "Calculator Tests Muliply 5 x 2",
-      "file": "/Users/durransalah/Documents/testing-mocha-chai/test/Calculator.js",
-      "duration": 0,
-      "currentRetry": 0,
-      "speed": "fast",
-      "err": {}
-    },
-    {
-      "title": "6 divided by 3",
-      "fullTitle": "Calculator Tests 6 divided by 3",
-      "file": "/Users/durransalah/Documents/testing-mocha-chai/test/Calculator.js",
-      "duration": 0,
-      "currentRetry": 0,
-      "speed": "fast",
-      "err": {}
-    }
-  ]
-}
+
+
+  Calculator Tests
+    ✔ Adds 1 and 2
+    ✔ Add Allows one parameter
+    ✔ Add Allows no parameters
+    ✔ Add turns strings to zeros
+    ✔ Subtracts 5 from 10
+    ✔ Subtracts allows one parameter
+    ✔ Muliply 5 x 2
+    ✔ 6 divided by 3
+
+
+  8 passing (3ms)
+
+[mochawesome] Report JSON saved to /Users/durransalah/Documents/testing-mocha-chai/mochawesome-report/mochawesome.json
+
+[mochawesome] Report HTML saved to /Users/durransalah/Documents/testing-mocha-chai/mochawesome-report/mochawesome.html
+
