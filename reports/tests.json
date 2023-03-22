@@ -5,9 +5,9 @@
     "passes": 8,
     "pending": 0,
     "failures": 0,
-    "start": "2023-03-22T20:28:42.631Z",
-    "end": "2023-03-22T20:28:42.633Z",
-    "duration": 2,
+    "start": "2023-03-22T20:32:10.899Z",
+    "end": "2023-03-22T20:32:10.903Z",
+    "duration": 4,
     "testsRegistered": 8,
     "passPercent": 100,
     "pendingPercent": 0,
@@ -18,7 +18,7 @@
   },
   "results": [
     {
-      "uuid": "1b913588-20c1-4fe0-b7a2-74686ae8b7ad",
+      "uuid": "3d892f3c-3e77-4aa5-97fb-67e7f3b6858e",
       "title": "",
       "fullFile": "/Users/durransalah/Documents/testing-mocha-chai/test/Calculator.js",
       "file": "/test/Calculator.js",
@@ -27,7 +27,7 @@
       "tests": [],
       "suites": [
         {
-          "uuid": "f946a1dd-ef29-4c6d-abb2-3cc7aa908df3",
+          "uuid": "74f7ace1-763a-4c53-adba-0258436cfd4b",
           "title": "Calculator Tests",
           "fullFile": "/Users/durransalah/Documents/testing-mocha-chai/test/Calculator.js",
           "file": "/test/Calculator.js",
@@ -47,8 +47,8 @@
               "context": null,
               "code": "expect(calc.add(1,2)).to.be.equal(3);",
               "err": {},
-              "uuid": "4f6c81fd-fadb-43a7-93ee-7866a1db18ae",
-              "parentUUID": "f946a1dd-ef29-4c6d-abb2-3cc7aa908df3",
+              "uuid": "48d54cc8-a306-48f8-a0f9-c22e1255e8ae",
+              "parentUUID": "74f7ace1-763a-4c53-adba-0258436cfd4b",
               "isHook": false,
               "skipped": false
             },
@@ -65,8 +65,8 @@
               "context": null,
               "code": "expect(calc.add(1)).to.be.equal(1);",
               "err": {},
-              "uuid": "340d6494-c1c0-4d5e-b3f9-38664df0b617",
-              "parentUUID": "f946a1dd-ef29-4c6d-abb2-3cc7aa908df3",
+              "uuid": "a0381260-6c4e-4e04-99be-0c613d9d1b08",
+              "parentUUID": "74f7ace1-763a-4c53-adba-0258436cfd4b",
               "isHook": false,
               "skipped": false
             },
@@ -83,8 +83,8 @@
               "context": null,
               "code": "expect(calc.add()).to.be.equal(0);",
               "err": {},
-              "uuid": "95da3e23-fa32-49a3-b763-245999199baa",
-              "parentUUID": "f946a1dd-ef29-4c6d-abb2-3cc7aa908df3",
+              "uuid": "a80f7274-8300-413e-acaa-4e00d8fbdf58",
+              "parentUUID": "74f7ace1-763a-4c53-adba-0258436cfd4b",
               "isHook": false,
               "skipped": false
             },
@@ -92,7 +92,7 @@
               "title": "Add turns strings to zeros",
               "fullTitle": "Calculator Tests Add turns strings to zeros",
               "timedOut": false,
-              "duration": 1,
+              "duration": 0,
               "state": "passed",
               "speed": "fast",
               "pass": true,
@@ -101,8 +101,8 @@
               "context": null,
               "code": "expect(calc.add(\"frog\",\"toad\")).to.be.number();",
               "err": {},
-              "uuid": "1fba3de5-d02e-49e8-950b-eb6847d0ea8b",
-              "parentUUID": "f946a1dd-ef29-4c6d-abb2-3cc7aa908df3",
+              "uuid": "7a0afd2d-abb6-42b7-8481-cfb430cabc9f",
+              "parentUUID": "74f7ace1-763a-4c53-adba-0258436cfd4b",
               "isHook": false,
               "skipped": false
             },
@@ -119,8 +119,8 @@
               "context": null,
               "code": "expect(calc.subtract(10,5)).to.be.equal(5);",
               "err": {},
-              "uuid": "5c10829f-99db-49a5-9c98-dc26319acb72",
-              "parentUUID": "f946a1dd-ef29-4c6d-abb2-3cc7aa908df3",
+              "uuid": "0282f9b4-755a-454e-a6de-7d14be66a8ea",
+              "parentUUID": "74f7ace1-763a-4c53-adba-0258436cfd4b",
               "isHook": false,
               "skipped": false
             },
@@ -137,8 +137,8 @@
               "context": null,
               "code": "expect(calc.subtract(3)).to.be.equal(3);",
               "err": {},
-              "uuid": "7383c918-8a8f-4135-a290-910b8394ca45",
-              "parentUUID": "f946a1dd-ef29-4c6d-abb2-3cc7aa908df3",
+              "uuid": "058e48d8-7929-4981-b3f3-4b0b1f6aca94",
+              "parentUUID": "74f7ace1-763a-4c53-adba-0258436cfd4b",
               "isHook": false,
               "skipped": false
             },
@@ -146,7 +146,7 @@
               "title": "Muliply 5 x 2",
               "fullTitle": "Calculator Tests Muliply 5 x 2",
               "timedOut": false,
-              "duration": 0,
+              "duration": 1,
               "state": "passed",
               "speed": "fast",
               "pass": true,
@@ -155,8 +155,8 @@
               "context": null,
               "code": "expect(calc.multiply(5,2)).to.be.equal(10);",
               "err": {},
-              "uuid": "5a98d9fd-2171-4afc-9a49-3499b5fe9f73",
-              "parentUUID": "f946a1dd-ef29-4c6d-abb2-3cc7aa908df3",
+              "uuid": "6601fd20-ded4-40f0-99d0-8925328b2920",
+              "parentUUID": "74f7ace1-763a-4c53-adba-0258436cfd4b",
               "isHook": false,
               "skipped": false
             },
@@ -173,22 +173,22 @@
               "context": null,
               "code": "expect(calc.divide(6,3)).to.be.equal(2);",
               "err": {},
-              "uuid": "ea7917c3-50da-4e9e-8e02-f484ba6d3f7f",
-              "parentUUID": "f946a1dd-ef29-4c6d-abb2-3cc7aa908df3",
+              "uuid": "da6cadbc-6eb3-46d2-bd77-2d7ba93b509f",
+              "parentUUID": "74f7ace1-763a-4c53-adba-0258436cfd4b",
               "isHook": false,
               "skipped": false
             }
           ],
           "suites": [],
           "passes": [
-            "4f6c81fd-fadb-43a7-93ee-7866a1db18ae",
-            "340d6494-c1c0-4d5e-b3f9-38664df0b617",
-            "95da3e23-fa32-49a3-b763-245999199baa",
-            "1fba3de5-d02e-49e8-950b-eb6847d0ea8b",
-            "5c10829f-99db-49a5-9c98-dc26319acb72",
-            "7383c918-8a8f-4135-a290-910b8394ca45",
-            "5a98d9fd-2171-4afc-9a49-3499b5fe9f73",
-            "ea7917c3-50da-4e9e-8e02-f484ba6d3f7f"
+            "48d54cc8-a306-48f8-a0f9-c22e1255e8ae",
+            "a0381260-6c4e-4e04-99be-0c613d9d1b08",
+            "a80f7274-8300-413e-acaa-4e00d8fbdf58",
+            "7a0afd2d-abb6-42b7-8481-cfb430cabc9f",
+            "0282f9b4-755a-454e-a6de-7d14be66a8ea",
+            "058e48d8-7929-4981-b3f3-4b0b1f6aca94",
+            "6601fd20-ded4-40f0-99d0-8925328b2920",
+            "da6cadbc-6eb3-46d2-bd77-2d7ba93b509f"
           ],
           "failures": [],
           "pending": [],
@@ -216,7 +216,7 @@
     "mochawesome": {
       "options": {
         "quiet": false,
-        "reportFilename": "mochawesome",
+        "reportFilename": "tests",
         "saveHtml": true,
         "saveJson": true,
         "consoleReporter": "spec",
@@ -226,7 +226,10 @@
       "version": "7.1.3"
     },
     "marge": {
-      "options": null,
+      "options": {
+        "reportDir": "reports",
+        "reportFilename": "tests"
+      },
       "version": "6.2.0"
     }
   }

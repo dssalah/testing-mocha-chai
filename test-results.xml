@@ -1,7 +1,9 @@
-[?25lCalculator loaded!
+Calculator loaded!
 
 
   Calculator Tests
+Calculator loaded!
+
     ✔ Adds 1 and 2
     ✔ Add Allows one parameter
     ✔ Add Allows no parameters

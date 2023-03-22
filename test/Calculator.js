@@ -10,6 +10,7 @@ chai.use(asserttype);
 var Calculator = require("../Calculator");
 var calc = new Calculator();
 
+
 describe("Calculator Tests",function(){
  
   it("Adds 1 and 2",function(){
@@ -44,5 +45,4 @@ describe("Calculator Tests",function(){
   it("6 divided by 3",function(){
 	     expect(calc.divide(6,3)).to.be.equal(2); 
   });
-
 });

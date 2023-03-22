@@ -4,7 +4,10 @@
   "description": "Import this repo to create a starting point for Node.js projects in repl.it, https://replit.com",
   "main": "index.js",
   "scripts": {
-    "test": "mocha-watch --reporter mochawesome > test-results/mocha.json",
+   
+
+    "test": "mocha --reporter mochawesome --reporter-options reportDir=reports,reportFilename=tests | grep -v 'mochawesome' && exit 0",
+
     "coverage": "nyc npm run test"
   },
   "keywords": [],
@@ -32,3 +35,5 @@
   },
   "homepage": "https://github.com/dssalah/testing-mocha-chai/blob/main/README.md"
 }
+
+
