@@ -5,8 +5,8 @@
     "passes": 8,
     "pending": 0,
     "failures": 0,
-    "start": "2023-03-22T19:19:14.901Z",
-    "end": "2023-03-22T19:19:14.904Z",
+    "start": "2023-03-22T19:28:43.005Z",
+    "end": "2023-03-22T19:28:43.008Z",
     "duration": 3,
     "testsRegistered": 8,
     "passPercent": 100,
@@ -18,7 +18,7 @@
   },
   "results": [
     {
-      "uuid": "b92edd28-4e73-47c1-b520-20c8ab326b52",
+      "uuid": "338346e3-da88-4dbc-a03a-2e5ac4c4c847",
       "title": "",
       "fullFile": "/Users/durransalah/Documents/testing-mocha-chai/test/Calculator.js",
       "file": "/test/Calculator.js",
@@ -27,7 +27,7 @@
       "tests": [],
       "suites": [
         {
-          "uuid": "a4487d43-4a3d-4a66-82b0-674242a7a898",
+          "uuid": "eb60b5f9-c682-4ab8-80d0-03af99054a80",
           "title": "Calculator Tests",
           "fullFile": "/Users/durransalah/Documents/testing-mocha-chai/test/Calculator.js",
           "file": "/test/Calculator.js",
@@ -47,8 +47,8 @@
               "context": null,
               "code": "expect(calc.add(1,2)).to.be.equal(3);",
               "err": {},
-              "uuid": "97417e4c-459b-444f-aa92-d5f59d9227a5",
-              "parentUUID": "a4487d43-4a3d-4a66-82b0-674242a7a898",
+              "uuid": "01eeb057-98a6-4fbd-adef-8cf1916e55a1",
+              "parentUUID": "eb60b5f9-c682-4ab8-80d0-03af99054a80",
               "isHook": false,
               "skipped": false
             },
@@ -65,8 +65,8 @@
               "context": null,
               "code": "expect(calc.add(1)).to.be.equal(1);",
               "err": {},
-              "uuid": "c7c1ba7c-4ce8-4d12-bdb0-80af7797a2b8",
-              "parentUUID": "a4487d43-4a3d-4a66-82b0-674242a7a898",
+              "uuid": "adf0662c-1e4e-43f9-b136-c7f85ab43886",
+              "parentUUID": "eb60b5f9-c682-4ab8-80d0-03af99054a80",
               "isHook": false,
               "skipped": false
             },
@@ -83,8 +83,8 @@
               "context": null,
               "code": "expect(calc.add()).to.be.equal(0);",
               "err": {},
-              "uuid": "b8db890c-7684-410c-86cb-208dc0886d33",
-              "parentUUID": "a4487d43-4a3d-4a66-82b0-674242a7a898",
+              "uuid": "b3833702-d7aa-40b7-b727-2d6791dcaf6a",
+              "parentUUID": "eb60b5f9-c682-4ab8-80d0-03af99054a80",
               "isHook": false,
               "skipped": false
             },
@@ -101,8 +101,8 @@
               "context": null,
               "code": "expect(calc.add(\"frog\",\"toad\")).to.be.number();",
               "err": {},
-              "uuid": "61abb221-4ee1-4cde-bae0-c385c46d5cb9",
-              "parentUUID": "a4487d43-4a3d-4a66-82b0-674242a7a898",
+              "uuid": "707f23e3-b650-492b-8c66-cb0444087ba2",
+              "parentUUID": "eb60b5f9-c682-4ab8-80d0-03af99054a80",
               "isHook": false,
               "skipped": false
             },
@@ -119,8 +119,8 @@
               "context": null,
               "code": "expect(calc.subtract(10,5)).to.be.equal(5);",
               "err": {},
-              "uuid": "ae0aa366-88db-435a-a761-8989b40198ad",
-              "parentUUID": "a4487d43-4a3d-4a66-82b0-674242a7a898",
+              "uuid": "ee89d877-8dda-454b-9173-57f7e42cb664",
+              "parentUUID": "eb60b5f9-c682-4ab8-80d0-03af99054a80",
               "isHook": false,
               "skipped": false
             },
@@ -137,8 +137,8 @@
               "context": null,
               "code": "expect(calc.subtract(3)).to.be.equal(3);",
               "err": {},
-              "uuid": "186afdbd-df90-4bae-84e5-cbbc97bb1e4e",
-              "parentUUID": "a4487d43-4a3d-4a66-82b0-674242a7a898",
+              "uuid": "0dc18f8e-46d4-4096-9275-bd0d6f0a8f9c",
+              "parentUUID": "eb60b5f9-c682-4ab8-80d0-03af99054a80",
               "isHook": false,
               "skipped": false
             },
@@ -155,8 +155,8 @@
               "context": null,
               "code": "expect(calc.multiply(5,2)).to.be.equal(10);",
               "err": {},
-              "uuid": "10aec1df-31c9-4371-b2bb-d6b85d98b0db",
-              "parentUUID": "a4487d43-4a3d-4a66-82b0-674242a7a898",
+              "uuid": "fa4e351c-8ae0-429f-8dbd-2a2bf932195e",
+              "parentUUID": "eb60b5f9-c682-4ab8-80d0-03af99054a80",
               "isHook": false,
               "skipped": false
             },
@@ -173,22 +173,22 @@
               "context": null,
               "code": "expect(calc.divide(6,3)).to.be.equal(2);",
               "err": {},
-              "uuid": "5517bfe0-a2c6-4b87-ad4b-7a1096e3156b",
-              "parentUUID": "a4487d43-4a3d-4a66-82b0-674242a7a898",
+              "uuid": "03909d76-dfd9-4111-8527-0d83761da6a6",
+              "parentUUID": "eb60b5f9-c682-4ab8-80d0-03af99054a80",
               "isHook": false,
               "skipped": false
             }
           ],
           "suites": [],
           "passes": [
-            "97417e4c-459b-444f-aa92-d5f59d9227a5",
-            "c7c1ba7c-4ce8-4d12-bdb0-80af7797a2b8",
-            "b8db890c-7684-410c-86cb-208dc0886d33",
-            "61abb221-4ee1-4cde-bae0-c385c46d5cb9",
-            "ae0aa366-88db-435a-a761-8989b40198ad",
-            "186afdbd-df90-4bae-84e5-cbbc97bb1e4e",
-            "10aec1df-31c9-4371-b2bb-d6b85d98b0db",
-            "5517bfe0-a2c6-4b87-ad4b-7a1096e3156b"
+            "01eeb057-98a6-4fbd-adef-8cf1916e55a1",
+            "adf0662c-1e4e-43f9-b136-c7f85ab43886",
+            "b3833702-d7aa-40b7-b727-2d6791dcaf6a",
+            "707f23e3-b650-492b-8c66-cb0444087ba2",
+            "ee89d877-8dda-454b-9173-57f7e42cb664",
+            "0dc18f8e-46d4-4096-9275-bd0d6f0a8f9c",
+            "fa4e351c-8ae0-429f-8dbd-2a2bf932195e",
+            "03909d76-dfd9-4111-8527-0d83761da6a6"
           ],
           "failures": [],
           "pending": [],
