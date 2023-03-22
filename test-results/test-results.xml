@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.006" tests="8" failures="0">
+  <testsuite name="Root Suite" timestamp="2023-03-22T08:07:13" tests="0" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Calculator Tests" timestamp="2023-03-22T08:07:13" tests="8" file="/home/runner/testing-mocha-chai/test/Calculator.js" time="0.005" failures="0">
+    <testcase name="Calculator Tests Adds 1 and 2" time="0.001" classname="Adds 1 and 2">
+    </testcase>
+    <testcase name="Calculator Tests Add Allows one parameter" time="0.000" classname="Add Allows one parameter">
+    </testcase>
+    <testcase name="Calculator Tests Add Allows no parameters" time="0.000" classname="Add Allows no parameters">
+    </testcase>
+    <testcase name="Calculator Tests Add turns strings to zeros" time="0.001" classname="Add turns strings to zeros">
+    </testcase>
+    <testcase name="Calculator Tests Subtracts 5 from 10" time="0.000" classname="Subtracts 5 from 10">
+    </testcase>
+    <testcase name="Calculator Tests Subtracts allows one parameter" time="0.000" classname="Subtracts allows one parameter">
+    </testcase>
+    <testcase name="Calculator Tests Muliply 5 x 2" time="0.000" classname="Muliply 5 x 2">
+    </testcase>
+    <testcase name="Calculator Tests 6 divided by 3" time="0.000" classname="6 divided by 3">
+    </testcase>
+  </testsuite>
+</testsuites>
