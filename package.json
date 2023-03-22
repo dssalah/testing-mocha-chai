@@ -22,10 +22,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/newmanix/js-testing-mocha-chai.git"
+    "url": "git+https://github.com/dssalah/testing-mocha-chai.git"
   },
   "bugs": {
-    "url": "https://github.com/newmanix/js-testing-mocha-chai/issues"
+    "url": "https://github.com/dssalah/testing-mocha-chai/issues"
   },
-  "homepage": "https://github.com/newmanix/js-testing-mocha-chai#readme"
+  "homepage": "https://github.com/dssalah/testing-mocha-chai/blob/main/README.md"
 }
